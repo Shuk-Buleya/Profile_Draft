@@ -1,5 +1,5 @@
 # Draft-Delete-After
-<h1 align="center">Hey there 👋, I'm [Your Name]!</h1>
+<h1 align="center">Hey there 👋, I'm Shukuran Buleya!</h1>
 <h3 align="center">🚀 Tech Explorer | 💡 Creative Thinker | 💻 Problem Solver</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 
-- 🔭 Currently working on: **Building a Mobile app in .NET MAUI & fun experiments**
+- 🔭 Currently working on: **Building a Mobile app in .NET MAUI & other fun experiments**
 - 🎓 Degree in Information Systems with **CREDIT** at MUBAS (formerly the POLYTECHNIC)
 - 🌍 Based in: **Malawi, Blantyre**
 - 📚 Always learning
@@ -21,14 +21,14 @@
 
 ### 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,tailwind,react,postgres,mysql,linux,bash,git,github,vscode" alt="My Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,cs,dotnet,fastapi,tailwind,react,postgres,mysql,linux,bash,git,github,vscode,flask,docker,blender,discord,figma" alt="My Tech Stack" />
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shuk-Buleya&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
