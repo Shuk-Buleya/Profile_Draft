@@ -40,8 +40,7 @@
 ### 🧩 Fun Projects
 
 - 💬 **HealthHub** – A digital health assistant platform for students
-- 🛠️ **ServiceLink** – Connects users to reliable technicians & pros
-- 💡 **Smart Budget App** – Personal finance simplified
+- 🎨 **TicTacToe** - A fun two player simple and fun game
 
 ---
 
